@@ -12,6 +12,7 @@
 
 Beta theme was created specifically for the **OMARCHY** | Hyprland system.</br>
 *A canvas where serenity meets creative expression.*
+<img width="3840" height="2160" alt="beta-preview2" src="https://github.com/user-attachments/assets/ae2823ef-b74c-4f00-ba72-f90fb3b1c106" />
 
 
 # Installation
