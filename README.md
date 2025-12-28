@@ -10,7 +10,7 @@
 ```
 > Inspired by Ubuntu default termianl colors. Modified by Dizziee.
 
-Beta was created specifically for the **OMARCHY** | Hyprland system.</br>
+Beta theme was created specifically for the **OMARCHY** | Hyprland system.</br>
 *A canvas where serenity meets creative expression.*
 
 
