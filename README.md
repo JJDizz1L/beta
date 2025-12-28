@@ -8,7 +8,7 @@
 ███████████ ░░██████   ░░█████ ░░████████
 ░░░░░░░░░░░   ░░░░░░     ░░░░░   ░░░░░░░░ 
 ```
-> Inspired by Ubuntu default termianl colors. Modified by Dizziee.
+> Inspired by Ubuntu default terminal colors. Modified by Dizziee.
 
 Beta theme was created specifically for the **OMARCHY** | Hyprland system.</br>
 *A canvas where serenity meets creative expression.*
