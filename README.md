@@ -13,7 +13,9 @@
 Beta theme was created specifically for the **OMARCHY** | Hyprland system.</br>
 *A canvas where serenity meets creative expression.*
 <img width="3840" height="2160" alt="beta-preview2" src="https://github.com/user-attachments/assets/ae2823ef-b74c-4f00-ba72-f90fb3b1c106" />
-
+<img width="941" height="265" alt="unlock" src="https://github.com/user-attachments/assets/8ee7b1ce-589b-4b58-97a5-b028d8375cad" />
+<img width="1920" height="1080" alt="preview-unlock" src="https://github.com/user-attachments/assets/3349cf9e-7780-4e14-b57d-6bfa955dd09f" />
+New, Omarchy 3.7+ (Plymouth) Unlock Screen 
 
 # Installation
 This theme can be installed a few ways to your Omarchy system. Choose one.
